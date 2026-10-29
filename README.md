@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Si Sheng
-Passionate about full stack web development and design. Specialized in JavaScript and its frameworks / libraries. Independent, highly motivated, and proactive self-starter.<br><br>
+Passionate about full stack web development and design. Specialized in TypeScript and its frameworks / libraries. Independent, highly motivated, and proactive self-starter.<br><br>
 
 ### Skills
 ###### Natural Languages
